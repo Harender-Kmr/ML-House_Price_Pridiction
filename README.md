@@ -1,4 +1,4 @@
-# ML-House_Price_PridictioN
+# ML-House_Price_Pridiction
 This is very first/common regression problem in Machine Learning and very important one.
 In this specific problem i am working on Boston house dataset, have 506 instance of house having 14 attribute(features). For complete information people can check housing.names file for complete description of the 
 Data used.
